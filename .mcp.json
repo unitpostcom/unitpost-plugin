@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "unitpost": {
+      "type": "http",
+      "url": "https://mcp.unitpost.com/mcp"
+    }
+  }
+}
