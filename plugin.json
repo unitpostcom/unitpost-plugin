@@ -22,7 +22,7 @@
       "interface": {
         "displayName": "Unitpost",
         "shortDescription": "Your agent sends email and SMS",
-        "longDescription": "Your AI Agent sends the messages. Unitpost is email and SMS infrastructure, run by your agent: it sends transactional email and SMS, runs campaigns, and manages contacts, segments, templates, sending domains, inbound email, and webhooks in your Unitpost workspace. Every tool maps 1:1 to the Unitpost REST API and enforces the same scopes, sending gate, suppression list, and billing. You connect with OAuth and pick one workspace. Send tools are marked destructive, so you're asked before anything goes out; email sends need a verified domain. SMS is on paid plans and enforces recipient consent and STOP opt-out. Unitpost sends only to people who opted in: no cold outreach or purchased lists.",
+        "longDescription": "Your AI Agent sends the messages. Unitpost is email and SMS infrastructure, run by your agent: it sends transactional email and SMS, runs campaigns, and manages contacts, segments, templates, sending domains, inbound email, and webhooks in your Unitpost workspace. The workspace tools map to the Unitpost REST API and enforce the same scopes, sending gate, suppression list, and billing; three read-only helpers search the docs, the email design library, and integration guides. You connect with OAuth and pick one workspace. Send tools are marked destructive, so you're asked before anything goes out; email sends need a verified domain. SMS sends enforce recipient consent and STOP opt-out. Unitpost sends only to people who opted in: no cold outreach or purchased lists.",
         "developerName": "Unitpost",
         "category": "Developer Tools",
         "capabilities": [
